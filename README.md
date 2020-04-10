@@ -5,6 +5,7 @@
 <title> Start</title>
 </head>
 <body>
+	<h1>Ayush I P</h1>
 <h1>Accounts</h1>
 <nav>
 	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
@@ -41,5 +42,7 @@
 					<li>Experienced using various modern manufacturing processes such as Welding, Brazing, Molding, Drilling, etc.</li>
 				</ul>
 			</nav>
+		</details>
+	</section>
 </body>
 </html>
