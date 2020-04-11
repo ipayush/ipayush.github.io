@@ -6,7 +6,7 @@
 </head>
 <body>
 	<h1>Ayush I P</h1>
-<h1>Accounts</h1>
+<h2>My Accounts</h2>
 <nav>
 	<link href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" />
 <div class="wrapper">
