@@ -68,7 +68,7 @@
 			</ul>
 		</nav>
 		<nav>
-			<a href="https://github.com/ipayush/ipayush.github.io/blob/master/skyfi"><h3><u>Handwritten Digits Recognition</u></h3></a>
+			<a href="www.skyfilabs.com/verify-certificate/53150004"><h3><u>Handwritten Digits Recognition</u></h3></a>
 			<ul>
 				<li>Used Tensor Flow and Keras Library to obtain the handwritten digits dataset (MNIST).</li>
 				<li>Trained and tested the model using neural network in deep learning.</li>
