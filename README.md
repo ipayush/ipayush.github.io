@@ -11,7 +11,7 @@
 	<link href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" />
 <div class="wrapper">
       <a href="http://www.facebook.com/profile.php?id=100007890199391"><i class="fa fa-3x fa-facebook-square"></i></a>
-      <a href="https://www.youtube.com/channel/UCUODf80478C_AX0Tn6xEuRw"><i class="fa fa-3x fa-youtube-play"style="color:red"></i></a>
+      <a href="https://www.youtube.com/channel/UCUODf80478C_AX0Tn6xEuRw"><i class="fa fa-3x fa-youtube-play" style="color:red"></i></a>
       <a href="http://www.instagram.com/ipayush"><i class="fa fa-3x fa-instagram instagram"></i></a>
       <a href="https://www.linkedin.com/in/ayush-i-p-1b1071190/"><i class="fa fa-3x fa-linkedin-square" style="color:#0e76a8"></i></a>
 </div>
