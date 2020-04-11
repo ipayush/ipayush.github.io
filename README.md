@@ -59,7 +59,7 @@
 	<details>
 		<summary>My Projects</summary>
 		<nav>
-			<a href="https://drive.google.com/file/d/1Rcq0GQK0zFCPqOlxcbf2Jd3rXN8OulW9/view?usp=sharing"><h3>Quad Squad</h3></a>
+			<a href="https://drive.google.com/file/d/1Rcq0GQK0zFCPqOlxcbf2Jd3rXN8OulW9/view?usp=sharing"><h3><u>Quad Squad</u></h3></a>
 			<ul>
 				<li>Summer project under Science and Technology council 2018-19.</li>
 				<li>Full assembly of quad copter.</li>
@@ -68,7 +68,7 @@
 			</ul>
 		</nav>
 		<nav>
-			<a href="https://github.com/ipayush/ipayush.github.io/blob/master/skyfi"><h3>Handwritten Digits Recognition</h3></a>
+			<a href="https://github.com/ipayush/ipayush.github.io/blob/master/skyfi"><h3><u>Handwritten Digits Recognition</u></h3></a>
 			<ul>
 				<li>Used Tensor Flow and Keras Library to obtain the handwritten digits dataset (MNIST).</li>
 				<li>Trained and tested the model using neural network in deep learning.</li>
@@ -77,14 +77,14 @@
 			</ul>
 		</nav>
 		<nav>
-			<a href="https://drive.google.com/file/d/1TGn6f5k3ZMQGptE4Mw2Lg7PlucrBxToi/view?usp=sharing"><h3>Box Transport Machine</h3></a>
+			<a href="https://drive.google.com/file/d/1TGn6f5k3ZMQGptE4Mw2Lg7PlucrBxToi/view?usp=sharing"><h3><u>Box Transport Machine</u></h3></a>
 				<ul>
 					<li>Designed and fabricated a prototype of machine which transports boxes.</li>
 					<li>Experienced using various modern manufacturing processes such as Welding, Brazing, Molding, Drilling, etc.</li>
 				</ul>
 			</nav>
 			<nav>
-				<a href="https://docs.google.com/document/d/1VP24vVBHLhR_EHNR-MycOTJ-134kAw0o-WTsrnjL7EI/edit?usp=sharing"><h3>Arch Bridge Analysis</h3></a>
+				<a href="https://docs.google.com/document/d/1VP24vVBHLhR_EHNR-MycOTJ-134kAw0o-WTsrnjL7EI/edit?usp=sharing"><h3><u>Arch Bridge Analysis</u></h3></a>
 				<ul>
 					<li>Arch bridge analysis in SAP2000 with live loads comparing Experimental data and Analytical data.</li>
 					<li>Comparing superposition of live loads on Experimental data versus Analytical data.</li>
